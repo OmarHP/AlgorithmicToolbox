@@ -14,7 +14,7 @@ public class GCD {
     return current_gcd;
   }
 
-
+  //Key Lemma implementation
   private static int gcd(int a, int b) {
     if(b==0){
       return a;
