@@ -1,6 +1,6 @@
 # Algorithmic Toolbox
 
-###Course assigments
+###Course assignments
 
 ####Introduction
 
