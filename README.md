@@ -1,5 +1,4 @@
 # Algorithmic Toolbox
-**Course 1 of "Data Structures and Algorithms" Specialization**
 
 ###Course assigments
 
